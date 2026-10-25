@@ -1,14 +1,24 @@
-# Hi, I'm Mathias 👋🏽
+<h1 align="center">Hey, I'm <a href="https://mathbecsan.com">Mathias Becerra Sanchez</a> 👋🏽</h1>
 
-🎓 Stanford '27 — Symbolic Systems (Human-Centered AI) &nbsp;|&nbsp; 📍 Stanford, California · Peru
+<h4 align="center">🎓 Stanford '27 • 🧠 Human-Centered AI &amp; HCI • 🗣️ Multilingual NLP • 🥽 AR/VR Builder • ♿ Accessibility</h4>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://mathbecsan.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathbecsan/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathbecsan@alumni.stanford.edu)
+<h4 align="center">🌎 Stanford, California ⇄ Lambayeque, Peru</h4>
+
+<p align="center">
+<a href="https://mathbecsan.com"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/mathbecsan/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mathbecsan/"><img src="https://img.shields.io/badge/-INSTAGRAM-D6249F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:mathbecsan@alumni.stanford.edu"><img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mathbecsan&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitors">
+<img src="https://img.shields.io/github/followers/mathbecsan?label=Followers&style=for-the-badge&logo=github" alt="Followers">
+</p>
 
 ---
 
-*I build at the intersection of artificial intelligence, language, accessibility, and cultural preservation — especially where technology has historically failed to recognize the people it's meant to serve.*
+<p align="center"><i>I build at the intersection of artificial intelligence, language, accessibility, and cultural preservation — especially where technology has historically failed to recognize the people it's meant to serve.</i></p>
 
 ---
 
@@ -37,32 +47,52 @@
 - Conducted research on **Quechua–Spanish code-switching**, language inclusion, and culturally responsive technology
 - Supported educational and community initiatives across Peru, Stanford, and international programs
 
-## 🧰 Favorite Tools & Tech Stack
+<details open>
+<summary><h2>🛠️ Favorite Tools &amp; Tech Stack</h2></summary>
 
-**Languages**
+<h3 align="center">🧑‍💻 Languages</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h3 align="center">🥽 Immersive Tech &amp; Frameworks</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-UNITY-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/-AR%20%2F%20VR-8A2BE2?style=for-the-badge&logo=oculus&logoColor=white" alt="AR/VR">
+<img src="https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
 
-**Immersive Tech & Frameworks**
+<h3 align="center">🧰 Tools &amp; Platforms</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/-NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+</p>
 
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![AR/VR](https://img.shields.io/badge/-AR%2FVR-8A2BE2?style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</details>
 
-**Tools & Platforms**
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mathbecsan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbecsan&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
 
-## 📈 Contribution Activity
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=mathbecsan&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
 
-![Mathias's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mathbecsan&theme=tokyo-night&hide_border=true&area=true)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathbecsan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
+</p>
+
+</details>
 
 ## 🧭 What Guides My Work
 
@@ -74,7 +104,7 @@ I'm interested in collaborations that treat multilingualism, accessibility, and 
 
 I'd love to connect around Indigenous-language technology, multilingual AI, accessibility, human-centered computing, responsible AI, or community-engaged research.
 
-📍 Stanford, California · Peru &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mathbecsan/) &nbsp;·&nbsp; 🌐 [Portfolio](https://mathbecsan.com) &nbsp;·&nbsp; ✉️ [mathbecsan@alumni.stanford.edu](mailto:mathbecsan@alumni.stanford.edu)
+<p align="center">📍 Stanford, California · Peru &nbsp;·&nbsp; 🔗 <a href="https://www.linkedin.com/in/mathbecsan/">LinkedIn</a> &nbsp;·&nbsp; 📸 <a href="https://www.instagram.com/mathbecsan/">Instagram</a> &nbsp;·&nbsp; 🌐 <a href="https://mathbecsan.com">Portfolio</a> &nbsp;·&nbsp; ✉️ <a href="mailto:mathbecsan@alumni.stanford.edu">Email</a></p>
 
 ---
 
