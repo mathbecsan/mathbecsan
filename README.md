@@ -16,17 +16,18 @@
 
 - 🎓 Studying **Symbolic Systems** at Stanford, concentrating in **Human-Centered AI / HCI** — originally from Lambayeque, Peru
 - 🗣️ Language enthusiast — learned multiple languages myself and taught 8 to 460+ students
-- 🧠 Research interests: multilingual NLP, AI ethics & governance, accessibility, neurolinguistics, HCI, Indigenous data sovereignty
+- 🧠 Research interests: human-centered AI & HCI for education, multilingual NLP & speech technologies for low-resource languages, social/assistive robotics & embodied AI, participatory AI governance & fairness, accessible interface design, human augmentation & flourishing
 - 🛠️ Technical toolkit: Python, C#, C++, JavaScript, HTML/CSS, Unity, AR/VR, Git, and human-centered research methods
 - 🌎 My work spans Indigenous-language NLP, multilingual HCI, AI governance, inclusive product design, and assistive technology
 
 ## 🔬 Current Interests
 
-- Building NLP systems that meaningfully support Quechua and other under-resourced languages
-- Examining whose knowledge, language, and values are encoded — or erased — in AI systems
-- Designing accessible interfaces for people with speech, hearing, cognitive, and language-related disabilities
-- Exploring culturally grounded approaches to AI evaluation, alignment, and global governance
-- Using immersive technology to translate complex health and scientific information into understandable experiences
+- Designing human-centered AI and HCI systems that support learning and education
+- Building multilingual NLP and speech technologies for low-resource languages
+- Exploring social/assistive robotics, human-robot interaction (HRI), and embodied AI for learning
+- Advancing participatory AI governance, fairness, and accountability
+- Creating accessible interfaces and user experiences for people with diverse needs
+- Prototyping human augmentation, flourishing, and performance technologies
 
 ## 🌱 Selected Work
 
